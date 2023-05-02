@@ -1,0 +1,17 @@
+[
+  {
+    "src": "img/mx1.jpg",
+    "alt": "mx1",
+    "caption": "Matrix 1"
+  },
+  {
+    "src": "img/mx2.jpg",
+    "alt": "mx2",
+    "caption": "Matrix 2"
+  },
+  {
+    "src": "img/mx3.jpg",
+    "alt": "mx3",
+    "caption": "Matrix 3"
+  }
+]
